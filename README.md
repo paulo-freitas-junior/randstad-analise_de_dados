@@ -161,7 +161,7 @@ Ingestão, modelagem, limpeza e transformação de dados no Power BI integrando 
 
 ## Projetos Desenvolvidos
 
-Projeto 01 - 
+[Projeto 01 - Análise de Sentimentos e Opniões com Language Studio](/projects/01-LanguageStudio/README.md)
 Projeto 02 - 
 
 ---
