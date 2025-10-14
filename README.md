@@ -161,7 +161,14 @@ Ingestão, modelagem, limpeza e transformação de dados no Power BI integrando 
 
 ## Projetos Desenvolvidos
 
-[Projeto 01 - Análise de Sentimentos e Opniões com Language Studio](/projects/01-LanguageStudio/README.md)
-Projeto 02 - 
+[Projeto 01 - Análise de Sentimentos e Opniões com Language Studio](/projects/01%20-%20Análise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/README.md)
+[Projeto 02 - Projeto Conceitual Banco de Dados de E-COMMERCE](/projects/02%20-%20Projeto%20Conceitual%20Banco%20de%20Dados%20de%20E-COMMERCE/README.md)
+[Projeto 03 - Construindo um Esquema conceitual](/projects/03%20-%20Construindo%20um%20Esquema%20Conceitual/README.md)
+[Projeto 04 - Construindo seu Primeiro Projeto Lógico de Banco de Dados](/projects/04%20-%20Construindo%20seu%20Primeiro%20Projeto%20Lógico%20de%20Banco%20de%20Dados/README.md)
+[Projeto 05 - Projeto Lógico de Banco de Dados do Zero](/projects/05%20-%20Projeto%20Lógico%20de%20Banco%20de%20Dados%20do%20Zero/README.md)
+[Projeto 06 - DashBoard de Vendas do Xbox no Excel](/projects/06%20-%20DashBoard%20de%20Vendas%20do%20Xbox%20no%20Excel/README.md)
+[Projeto 07 - Analisando dados de um Dashboard de Vendas no Power BI](/projects/07%20-%20Analisando%20dados%20de%20um%20Dashboard%20de%20Vendas%20no%20Power%20BI/README.md)
+[Projeto 08 - Relatório Gerencial de Vendas com Power BI](/projects/08%20-%20Relatório%20Gerencial%20de%20Vendas%20com%20Power%20BI/README.md)
+[Projeto 09 - Dashboard corporativo com MySQL e Azure](/projects/09%20-%20Dashboard%20corporativo%20com%20MySQL%20e%20Azure/README.md)
 
 ---
