@@ -760,8 +760,11 @@ GRANT SELECT ON ecommerce_db.* TO 'relatorios'@'localhost';
 ### Arquivos SQL diversos
 
 [Criação da Database Original](/scripts/create_db_original_ecommerce.sql)
+
 [Criação da Database E-Commerce Refinada](/scripts/create_db_ecommerce.sql)
+
 [Tipos Inserção tabela Clientes](/scripts/insert_clientes_ecommerce.sql)
+
 [Tipos de Consultas de Clientes PF e PJ](/scripts/select_clientes_ecommerce.sql)
 
 ---
